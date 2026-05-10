@@ -31,6 +31,12 @@ We utilized a **Correlation Heatmap** to visualize the relationships between num
 ### 2. Risk Factors
 Our **Bivariate Analysis** (Boxplots with Jitter) revealed that **Maximum Heart Rate (`thalachh`)** is a critical differentiator. Patients in the high-risk category consistently showed higher peak heart rates.
 
+<img width="341" height="246" alt="Rplot03" src="https://github.com/user-attachments/assets/bf0a9967-e7e5-46ca-93ac-c6ddf9d15ef4" />
+<img width="341" height="246" alt="Rplot02" src="https://github.com/user-attachments/assets/1aa70e48-9955-4a48-94ea-df54ccf25eb7" />
+<img width="341" height="246" alt="Rplot01" src="https://github.com/user-attachments/assets/ae02620b-1484-427f-b16b-705f960c081a" />
+<img width="341" height="246" alt="Rplot" src="https://github.com/user-attachments/assets/22a8128f-e7fc-4a80-bea6-90f698772df1" />
+
+
 ---
 
 ## ⚙️ Machine Learning Pipeline
